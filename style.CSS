@@ -26,3 +26,16 @@ li a {
 li a:hover {
   background-color: #808080;
 } 
+div.title {
+  color: purple;
+  position: absolute;
+  background-color: pink;
+  border: 2px dotted purple;
+  width: 80%;
+    top: 0;
+  left: 10%;
+}
+
+.title {
+  text-align: center;
+}
