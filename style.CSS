@@ -26,6 +26,10 @@ li a {
 li a:hover {
   background-color: #808080;
 } 
+
+.active {
+  background-color: #808080;
+}
 div.title {
   color: purple;
   position: absolute;
