@@ -41,3 +41,7 @@ div.title {
 .title {
   text-align: center;
 }
+
+.txt {
+  transform: translateY(-50%);
+}
