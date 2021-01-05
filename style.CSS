@@ -27,8 +27,9 @@ li a:hover {
   background-color: #808080;
 } 
 div.title {
-  color: brown;
+  color: purple;
   position: absolute;
+  margin-top: -20px;
   background-color: pink;
   border: 2px dotted purple;
   width: 80%;
@@ -39,5 +40,4 @@ div.title {
 
 .title {
   text-align: center;
-  color: white;
 }
